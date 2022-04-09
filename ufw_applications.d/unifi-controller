@@ -1,0 +1,5 @@
+# https://help.ui.com/hc/en-us/articles/218506997-UniFi-Ports-Used#1
+[unifi-controller]
+title=unifi-controller
+description=Unifi Controller
+ports=8080,443,8443,8880,8843,6789,27117/tcp|3478,5514,5656:5699,10001,1900/udp
